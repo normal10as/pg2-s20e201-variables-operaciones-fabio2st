@@ -1,0 +1,13 @@
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.exe
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.deps.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfo.cs
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.genruntimeconfig.cache
