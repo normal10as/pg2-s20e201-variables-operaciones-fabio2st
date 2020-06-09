@@ -11,3 +11,16 @@ E:\Development\visual studio 2019\Programacion2\2020\pg2-s20e201-variables-opera
 E:\Development\visual studio 2019\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.dll
 E:\Development\visual studio 2019\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.pdb
 E:\Development\visual studio 2019\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.genruntimeconfig.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.csprojAssemblyReference.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.csproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.AssemblyInfo.cs
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.genruntimeconfig.cache
