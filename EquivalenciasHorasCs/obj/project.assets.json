@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasCs\\EquivalenciasHorasCs.csproj",
+      "projectUniqueName": "E:\\Classroom\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasCs\\EquivalenciasHorasCs.csproj",
       "projectName": "EquivalenciasHorasCs",
-      "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasCs\\EquivalenciasHorasCs.csproj",
+      "projectPath": "E:\\Classroom\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasCs\\EquivalenciasHorasCs.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasCs\\obj\\",
+      "outputPath": "E:\\Classroom\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasCs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

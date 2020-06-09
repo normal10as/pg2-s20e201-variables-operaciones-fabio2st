@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\EquivalenciasHorasVb.vbproj": {}
+    "E:\\Classroom\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\EquivalenciasHorasVb.vbproj": {}
   },
   "projects": {
-    "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\EquivalenciasHorasVb.vbproj": {
+    "E:\\Classroom\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\EquivalenciasHorasVb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\EquivalenciasHorasVb.vbproj",
+        "projectUniqueName": "E:\\Classroom\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\EquivalenciasHorasVb.vbproj",
         "projectName": "EquivalenciasHorasVb",
-        "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\EquivalenciasHorasVb.vbproj",
+        "projectPath": "E:\\Classroom\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\EquivalenciasHorasVb.vbproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\obj\\",
+        "outputPath": "E:\\Classroom\\Programacion2\\2020\\pg2-s20e201-variables-operaciones-fabio2st\\EquivalenciasHorasVb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
