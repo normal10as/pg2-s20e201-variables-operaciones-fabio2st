@@ -1,0 +1,12 @@
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\bin\Debug\netcoreapp3.1\FacturaciónVb.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\bin\Debug\netcoreapp3.1\FacturaciónVb.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\bin\Debug\netcoreapp3.1\FacturaciónVb.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\bin\Debug\netcoreapp3.1\FacturaciónVb.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\bin\Debug\netcoreapp3.1\FacturaciónVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\bin\Debug\netcoreapp3.1\FacturaciónVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\obj\Debug\netcoreapp3.1\FacturaciónVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\obj\Debug\netcoreapp3.1\FacturaciónVb.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\obj\Debug\netcoreapp3.1\FacturaciónVb.AssemblyInfo.vb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\obj\Debug\netcoreapp3.1\FacturaciónVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\obj\Debug\netcoreapp3.1\FacturaciónVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\FacturaciónVb\obj\Debug\netcoreapp3.1\FacturaciónVb.genruntimeconfig.cache
