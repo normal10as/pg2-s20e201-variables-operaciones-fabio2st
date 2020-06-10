@@ -1,0 +1,12 @@
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.AssemblyInfo.vb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.genruntimeconfig.cache
