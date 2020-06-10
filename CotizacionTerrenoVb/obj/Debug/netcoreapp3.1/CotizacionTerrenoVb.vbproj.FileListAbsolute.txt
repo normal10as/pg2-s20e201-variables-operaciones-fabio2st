@@ -1,0 +1,13 @@
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.AssemblyInfo.vb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.vbprojAssemblyReference.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.genruntimeconfig.cache

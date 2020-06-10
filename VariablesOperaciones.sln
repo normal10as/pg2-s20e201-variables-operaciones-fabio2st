@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CostosCs", "CostosCs\Costos
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "CostosVb", "CostosVb\CostosVb.vbproj", "{7DCD9BB8-7ECD-4B49-A2D2-AF811D35A3D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquivalenciasHorasCs", "EquivalenciasHorasCs\EquivalenciasHorasCs.csproj", "{509AA0E8-8265-4092-AA0F-AC108E018BD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquivalenciasHorasCs", "EquivalenciasHorasCs\EquivalenciasHorasCs.csproj", "{509AA0E8-8265-4092-AA0F-AC108E018BD6}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EquivalenciasHorasVb", "EquivalenciasHorasVb\EquivalenciasHorasVb.vbproj", "{C6B5DE58-3C04-433F-8795-24CA91789DD4}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "EquivalenciasHorasVb", "EquivalenciasHorasVb\EquivalenciasHorasVb.vbproj", "{C6B5DE58-3C04-433F-8795-24CA91789DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotizaciónTerrenoCs", "CotizaciónTerrenoCs\CotizaciónTerrenoCs.csproj", "{372AC995-1B35-4E05-98DD-B8B8FCEDD93F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CotizacionTerrenoVb", "CotizacionTerrenoVb\CotizacionTerrenoVb.vbproj", "{7B651C67-8F9E-4FEE-AD1F-A9020C5D10E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C6B5DE58-3C04-433F-8795-24CA91789DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6B5DE58-3C04-433F-8795-24CA91789DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6B5DE58-3C04-433F-8795-24CA91789DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372AC995-1B35-4E05-98DD-B8B8FCEDD93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372AC995-1B35-4E05-98DD-B8B8FCEDD93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372AC995-1B35-4E05-98DD-B8B8FCEDD93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372AC995-1B35-4E05-98DD-B8B8FCEDD93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B651C67-8F9E-4FEE-AD1F-A9020C5D10E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B651C67-8F9E-4FEE-AD1F-A9020C5D10E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B651C67-8F9E-4FEE-AD1F-A9020C5D10E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B651C67-8F9E-4FEE-AD1F-A9020C5D10E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
