@@ -1,0 +1,12 @@
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.csproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.AssemblyInfo.cs
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.genruntimeconfig.cache
