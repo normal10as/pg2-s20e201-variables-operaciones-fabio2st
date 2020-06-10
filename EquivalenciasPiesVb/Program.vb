@@ -15,7 +15,7 @@ Module Program
         Dim pulgadas, cms As Decimal
 
         Console.Write("Ingrese medida en pies: ")
-        pies = Convert.ToUInt32(Console.ReadLine())
+        pies = Console.ReadLine()
 
         pulgadas = pies * piePulgadas
         cms = pulgadas * pulgadaCms

@@ -15,7 +15,7 @@ Module Program
         Console.Write("Nombre artículo: ")
         nombreArticulo = Console.ReadLine()
         Console.Write("Costo: ")
-        costo = Convert.ToDecimal(Console.ReadLine())
+        costo = Console.ReadLine()
 
         utilidad = costo * utilidadPorcentaje / 100
         precio = costo + utilidad

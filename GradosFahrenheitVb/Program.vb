@@ -8,8 +8,8 @@ Module Program
     Sub Main(args As String())
         Dim celsius, fahrenheit As Single
         Console.Write("Ingrese temperatura en Celsius: ")
-        celsius = Convert.ToSingle(Console.ReadLine())
-        fahrenheit = CSng(celsius * 1.8 + 32)
+        celsius = Console.ReadLine()
+        fahrenheit = celsius * 1.8 + 32
         Console.WriteLine("Temperatura en fahrenheit: " & fahrenheit)
     End Sub
 End Module

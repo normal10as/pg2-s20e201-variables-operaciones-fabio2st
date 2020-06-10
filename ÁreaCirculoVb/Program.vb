@@ -8,9 +8,9 @@ Module Program
 
         Console.Write("Ingrese el radio dé un círculo: ")
 
-        radio = Convert.ToSingle(Console.ReadLine())
+        radio = Console.ReadLine()
 
-        area = CSng(Math.PI * Math.Pow(radio, 2))
+        area = Math.PI * radio ^ 2
 
         Console.WriteLine("area = Pi.r^2 => {0}.{1}^2 = {2}", Math.PI, radio, area)
     End Sub

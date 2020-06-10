@@ -12,11 +12,11 @@ Module Program
         Dim costoMetroCuadrado, costoTotal As Decimal
         'Entradas
         Console.Write("Ingrese el ancho del terreno: ")
-        ancho = Convert.ToInt32(Console.ReadLine())
+        ancho = Console.ReadLine()
         Console.Write("Ingrese la longitud del terreno: ")
-        longitud = Convert.ToInt32(Console.ReadLine())
+        longitud = Console.ReadLine()
         Console.Write("Ingrese el precio del metro cuadrado: ")
-        costoMetroCuadrado = Convert.ToInt32(Console.ReadLine())
+        costoMetroCuadrado = Console.ReadLine()
         'Procesos
         costoTotal = ancho * longitud * costoMetroCuadrado
         'Salidas

@@ -10,3 +10,4 @@ E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\Grado
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.dll
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.pdb
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.genruntimeconfig.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.vbprojAssemblyReference.cache
