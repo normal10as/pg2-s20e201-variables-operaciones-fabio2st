@@ -1,5 +1,11 @@
 ﻿using System;
-
+/* 1.1. Crear un proyecto llamado “Costos” qué calcula 
+ * imprima el costo de producción de un artículo, 
+ * teniendo como datos la descripción y el número de unidades producidas.
+ * El costo se calcula multiplicando el número de unidades producidas 
+ * por un factor de costo de materiales de 3.5 
+ * y sumándole el producto un costo fijo de 10.700. 
+ * Informar todos los datos ingresados junto a los resultados calculados. */
 namespace CostosCs
 {
     class Program

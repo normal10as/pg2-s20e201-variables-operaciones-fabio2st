@@ -1,6 +1,6 @@
 ﻿Imports System
 
-' Crear un proyecto llamado “CotizaciónTerreno” 
+' 1.2 Crear un proyecto llamado “CotizaciónTerreno” 
 '  qué calcule e imprima el costo un terreno
 ' cuadrado o rectangular, teniendo como datos el ancho 
 ' y la longitud en metros y el costo del

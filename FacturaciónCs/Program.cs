@@ -11,21 +11,22 @@ namespace FacturaciónCs
     {
         static void Main(string[] args)
         {
+            //Declaración de variables
             string nombreArticulo;
             decimal costo, precio, utilidad, impuesto;
             decimal utilidadPorcentaje = 150;
             decimal impuestoPorcentaje = 21;
-
+            //Entrada
             Console.Write("Nombre artículo: ");
             nombreArticulo = Console.ReadLine();
             Console.Write("Costo: ");
             costo = Convert.ToDecimal(Console.ReadLine());
-
+            //Proceso
             utilidad = costo * utilidadPorcentaje / 100;
             precio = costo + utilidad;
             impuesto = precio * impuestoPorcentaje / 100;
             precio += impuesto;
-
+            //Salida
             Console.WriteLine("Articulo: " + nombreArticulo);
             Console.WriteLine("Costo:    " + costo);  // no estaba en el requerimiento
             Console.WriteLine("Utilidad: " + utilidad);

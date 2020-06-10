@@ -10,11 +10,15 @@ namespace VelocidadDeLaLuzCs
     {
         static void Main(string[] args)
         {
-            short segundos;
+            //Declaración de variables
+            ushort segundos;
             ulong distancia;
+            //Entrada
             Console.Write("Ingrese número de segundos: ");
-            segundos = Convert.ToInt16(Console.ReadLine());
+            segundos = Convert.ToUInt16(Console.ReadLine());
+            //Proceso
             distancia = (ulong)segundos * 300000;
+            //Salida
             Console.WriteLine("En {0} segundos, la luz recorre {1} Kilometros.", segundos, distancia);
         }
     }

@@ -10,10 +10,14 @@ namespace GradosFahrenheitCs
     {
         static void Main(string[] args)
         {
+            //Declaración de variables
             float celsius, fahrenheit;
+            //Entrada
             Console.Write("Ingrese temperatura en Celsius: ");
             celsius = Convert.ToSingle(Console.ReadLine());
+            //Proceso
             fahrenheit = (float)(celsius * 1.8 + 32);
+            //Salida
             Console.WriteLine("Temperatura en fahrenheit: " + fahrenheit);
         }
     }

@@ -10,3 +10,4 @@ E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\Área
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.dll
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.pdb
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.genruntimeconfig.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.csprojAssemblyReference.cache

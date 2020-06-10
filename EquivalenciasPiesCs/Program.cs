@@ -11,23 +11,26 @@ namespace EquivalenciasPiesCs
     {
         static void Main(string[] args)
         {
+            //Declaración de variables
             byte piePulgadas = 12;
             byte yardaPies = 3;
             decimal pulgadaCms = 2.54M;
             byte metroCms = 100;
             uint pies;
-            decimal pulgadas, cms;
-
+            decimal pulgadas, yardas, cms, metros;
+            //Entrada
             Console.Write("Ingrese medida en pies: ");
             pies = Convert.ToUInt32(Console.ReadLine());
-
+            //Proceso
             pulgadas = pies * piePulgadas;
+            yardas = pies / yardaPies;
             cms = pulgadas * pulgadaCms;
-
+            metros = cms / metroCms;
+            //Salida
             Console.WriteLine("Equivale a {0} pulgadas", pulgadas);
-            Console.WriteLine("Equivale a {0} yardas", pies / yardaPies);
+            Console.WriteLine("Equivale a {0} yardas", yardas);
             Console.WriteLine("Equivale a {0} centimetros", cms);
-            Console.WriteLine("Equivale a {0} metros", cms / metroCms);
+            Console.WriteLine("Equivale a {0} metros", metros);
         }
     }
 }

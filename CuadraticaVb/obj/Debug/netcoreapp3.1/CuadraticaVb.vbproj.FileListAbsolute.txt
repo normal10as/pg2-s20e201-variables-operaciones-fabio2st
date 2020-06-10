@@ -10,3 +10,4 @@ E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\Cuadr
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.dll
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.pdb
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.genruntimeconfig.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.vbprojAssemblyReference.cache

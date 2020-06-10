@@ -10,3 +10,4 @@ E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\Veloc
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzVb\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzVb.dll
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzVb\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzVb.pdb
 E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzVb\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzVb.genruntimeconfig.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\VelocidadDeLaLuzVb\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzVb.vbprojAssemblyReference.cache

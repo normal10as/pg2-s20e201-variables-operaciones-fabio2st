@@ -6,10 +6,14 @@ Imports System
 ' cálculo. 
 Module Program
     Sub Main(args As String())
+        'Declaración de variables
         Dim celsius, fahrenheit As Single
+        'Entrada
         Console.Write("Ingrese temperatura en Celsius: ")
         celsius = Console.ReadLine()
+        'Proceso
         fahrenheit = celsius * 1.8 + 32
+        'Salida
         Console.WriteLine("Temperatura en fahrenheit: " & fahrenheit)
     End Sub
 End Module
