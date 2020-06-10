@@ -1,0 +1,12 @@
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\bin\Debug\netcoreapp3.1\CotizaciónDólarVb.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\bin\Debug\netcoreapp3.1\CotizaciónDólarVb.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\bin\Debug\netcoreapp3.1\CotizaciónDólarVb.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\bin\Debug\netcoreapp3.1\CotizaciónDólarVb.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\bin\Debug\netcoreapp3.1\CotizaciónDólarVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\bin\Debug\netcoreapp3.1\CotizaciónDólarVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\obj\Debug\netcoreapp3.1\CotizaciónDólarVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\obj\Debug\netcoreapp3.1\CotizaciónDólarVb.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\obj\Debug\netcoreapp3.1\CotizaciónDólarVb.AssemblyInfo.vb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\obj\Debug\netcoreapp3.1\CotizaciónDólarVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\obj\Debug\netcoreapp3.1\CotizaciónDólarVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CotizaciónDólarVb\obj\Debug\netcoreapp3.1\CotizaciónDólarVb.genruntimeconfig.cache

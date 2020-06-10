@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CotizaciónDólarCs/1.0.0": {
+        "runtime": {
+          "CotizaciónDólarCs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CotizaciónDólarCs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
