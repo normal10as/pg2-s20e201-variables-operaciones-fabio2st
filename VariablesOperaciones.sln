@@ -11,21 +11,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquivalenciasHorasCs", "Equ
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "EquivalenciasHorasVb", "EquivalenciasHorasVb\EquivalenciasHorasVb.vbproj", "{C6B5DE58-3C04-433F-8795-24CA91789DD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotizaciónTerrenoCs", "CotizaciónTerrenoCs\CotizaciónTerrenoCs.csproj", "{372AC995-1B35-4E05-98DD-B8B8FCEDD93F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CotizaciónTerrenoCs", "CotizaciónTerrenoCs\CotizaciónTerrenoCs.csproj", "{372AC995-1B35-4E05-98DD-B8B8FCEDD93F}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CotizacionTerrenoVb", "CotizacionTerrenoVb\CotizacionTerrenoVb.vbproj", "{7B651C67-8F9E-4FEE-AD1F-A9020C5D10E6}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "CotizacionTerrenoVb", "CotizacionTerrenoVb\CotizacionTerrenoVb.vbproj", "{7B651C67-8F9E-4FEE-AD1F-A9020C5D10E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelocidadDeLaLuzCs", "VelocidadDeLaLuzCs\VelocidadDeLaLuzCs.csproj", "{E790D52B-F88C-493C-9173-4080F32BED85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VelocidadDeLaLuzCs", "VelocidadDeLaLuzCs\VelocidadDeLaLuzCs.csproj", "{E790D52B-F88C-493C-9173-4080F32BED85}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VelocidadDeLaLuzVb", "VelocidadDeLaLuzVb\VelocidadDeLaLuzVb.vbproj", "{7382A77E-43A9-46F0-8CC5-2C1062E3F09D}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VelocidadDeLaLuzVb", "VelocidadDeLaLuzVb\VelocidadDeLaLuzVb.vbproj", "{7382A77E-43A9-46F0-8CC5-2C1062E3F09D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuadraticaCs", "CuadraticaCs\CuadraticaCs.csproj", "{35E0D2EB-BF72-49A0-B668-D7BDAE281614}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CuadraticaCs", "CuadraticaCs\CuadraticaCs.csproj", "{35E0D2EB-BF72-49A0-B668-D7BDAE281614}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CuadraticaVb", "CuadraticaVb\CuadraticaVb.vbproj", "{F2F720C7-EC92-44C5-B291-4B36102AD999}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "CuadraticaVb", "CuadraticaVb\CuadraticaVb.vbproj", "{F2F720C7-EC92-44C5-B291-4B36102AD999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradosFahrenheitCs", "GradosFahrenheitCs\GradosFahrenheitCs.csproj", "{D93C9EA2-0467-4765-98F4-9E060608A938}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradosFahrenheitCs", "GradosFahrenheitCs\GradosFahrenheitCs.csproj", "{D93C9EA2-0467-4765-98F4-9E060608A938}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GradosFahrenheitVb", "GradosFahrenheitVb\GradosFahrenheitVb.vbproj", "{3EE2C88E-1E74-4F10-8C82-E72A6CB4DE42}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "GradosFahrenheitVb", "GradosFahrenheitVb\GradosFahrenheitVb.vbproj", "{3EE2C88E-1E74-4F10-8C82-E72A6CB4DE42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquivalenciasPiesCs", "EquivalenciasPiesCs\EquivalenciasPiesCs.csproj", "{905B42B7-F418-481C-A792-5BED80798BEA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EquivalenciasPiesVb", "EquivalenciasPiesVb\EquivalenciasPiesVb.vbproj", "{5A20CD1B-9511-4101-9360-AB36501FAE1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{3EE2C88E-1E74-4F10-8C82-E72A6CB4DE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EE2C88E-1E74-4F10-8C82-E72A6CB4DE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EE2C88E-1E74-4F10-8C82-E72A6CB4DE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905B42B7-F418-481C-A792-5BED80798BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905B42B7-F418-481C-A792-5BED80798BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905B42B7-F418-481C-A792-5BED80798BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905B42B7-F418-481C-A792-5BED80798BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A20CD1B-9511-4101-9360-AB36501FAE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A20CD1B-9511-4101-9360-AB36501FAE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A20CD1B-9511-4101-9360-AB36501FAE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A20CD1B-9511-4101-9360-AB36501FAE1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
