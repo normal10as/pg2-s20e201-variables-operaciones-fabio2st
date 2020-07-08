@@ -1,0 +1,12 @@
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.AssemblyInfo.vb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.genruntimeconfig.cache

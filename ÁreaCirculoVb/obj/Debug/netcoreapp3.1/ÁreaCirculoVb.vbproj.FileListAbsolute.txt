@@ -1,0 +1,12 @@
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\bin\Debug\netcoreapp3.1\ÁreaCirculoVb.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\bin\Debug\netcoreapp3.1\ÁreaCirculoVb.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\bin\Debug\netcoreapp3.1\ÁreaCirculoVb.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\bin\Debug\netcoreapp3.1\ÁreaCirculoVb.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\bin\Debug\netcoreapp3.1\ÁreaCirculoVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\bin\Debug\netcoreapp3.1\ÁreaCirculoVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\obj\Debug\netcoreapp3.1\ÁreaCirculoVb.vbproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\obj\Debug\netcoreapp3.1\ÁreaCirculoVb.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\obj\Debug\netcoreapp3.1\ÁreaCirculoVb.AssemblyInfo.vb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\obj\Debug\netcoreapp3.1\ÁreaCirculoVb.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\obj\Debug\netcoreapp3.1\ÁreaCirculoVb.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\ÁreaCirculoVb\obj\Debug\netcoreapp3.1\ÁreaCirculoVb.genruntimeconfig.cache

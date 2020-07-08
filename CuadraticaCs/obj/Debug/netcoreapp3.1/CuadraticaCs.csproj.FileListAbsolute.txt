@@ -1,0 +1,12 @@
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.csproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.AssemblyInfo.cs
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.genruntimeconfig.cache

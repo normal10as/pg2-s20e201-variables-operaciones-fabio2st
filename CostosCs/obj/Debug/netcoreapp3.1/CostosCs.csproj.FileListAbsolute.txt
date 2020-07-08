@@ -1,0 +1,26 @@
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.exe
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.deps.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfo.cs
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\VariablesOperaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.genruntimeconfig.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.exe
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.deps.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.dev.json
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csprojAssemblyReference.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csproj.CoreCompileInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfoInputs.cache
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfo.cs
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.dll
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.pdb
+E:\Classroom\Programacion2\2020\pg2-s20e201-variables-operaciones-fabio2st\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.genruntimeconfig.cache
