@@ -5,7 +5,7 @@ Module Program
         ' Declaración y asignación de variables
         Dim descripcion As String
         Dim costoUnitario As Decimal
-        Dim unidadesProducidas As Integer
+        Dim unidadesProducidas As UInteger
         Dim factorCostos As Decimal = 3.5
         Dim costoFijo As Decimal = 10700
         ' Entradas

@@ -15,14 +15,14 @@ namespace CostosCs
             // Declaración y asignación de variables
             string descripcion;
             decimal costoUnitario;
-            int unidadesProducidas;
+            uint unidadesProducidas;
             decimal factorCostos = 3.5M;
             decimal costoFijo = 10700;
             //Entradas
             Console.Write("Ingrese la descripción del artículo: ");
             descripcion = Console.ReadLine();
             Console.Write("Ingrese el número de unidades producidas: ");
-            unidadesProducidas = Convert.ToInt32(Console.ReadLine());
+            unidadesProducidas = Convert.ToUInt32(Console.ReadLine());
             //Procesos
             costoUnitario = (unidadesProducidas * factorCostos + costoFijo) / unidadesProducidas;
             //Salidas

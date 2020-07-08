@@ -12,7 +12,7 @@ namespace CuadraticaCs
             ushort a = 1, b = 5, c = 2;
             double x;
             // proceso
-            x = (b * 2 - 4 * a * c) / (2 * a);
+            x = (b ^ 2 - 4 * a * c) / (2 * a);
             // salida
             Console.WriteLine("x = b2−4ac / 2a donde a = 1, b = 5 y c = 2 entonces x = " + x);
         }

@@ -11,13 +11,13 @@ namespace CotizaciónTerrenoCs
         static void Main(string[] args)
         {
             // Declaración y asignación de variables
-            int ancho, longitud;
+            uint ancho, longitud;
             decimal costoMetroCuadrado, costoTotal;
             //Entradas
             Console.Write("Ingrese el ancho del terreno: ");
-            ancho = Convert.ToInt32( Console.ReadLine());
+            ancho = Convert.ToUInt32( Console.ReadLine());
             Console.Write("Ingrese la longitud del terreno: ");
-            longitud = Convert.ToInt32(Console.ReadLine());
+            longitud = Convert.ToUInt32(Console.ReadLine());
             Console.Write("Ingrese el precio del metro cuadrado: ");
             costoMetroCuadrado = Convert.ToInt32(Console.ReadLine());
             //Procesos
